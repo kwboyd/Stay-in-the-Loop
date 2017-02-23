@@ -1,8 +1,7 @@
 # socialmedia
 Mobile app that integrates social media APIs
 
-##
-Instructions
+## Instructions
 Visit this project [here](http://kwboyd.com/static/project4).
 
 This project will not work locally because of the required secret API keys.
