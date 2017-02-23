@@ -1,5 +1,5 @@
-# socialmedia
-Mobile app that integrates social media APIs
+# Stay in the Loop
+A mobile app that integrates social media APIs
 
 ## Instructions
 Visit this project [here](http://kwboyd.com/static/project4).
